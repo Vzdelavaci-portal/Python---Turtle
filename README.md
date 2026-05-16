@@ -64,26 +64,4 @@ Python---Turtle
 
 ---
 
-# 📹 Great for Reels & Shorts
-
-Perfect for:
-- TikTok
-- Instagram Reels
-- YouTube Shorts
-- coding content
-
----
-
-# 🔥 Planned Future Projects
-
-- Mandala Generator
-- Pixel Art
-- Rainbow Snake
-- Rotating Squares
-- Fractal Tree
-- Random Art Generator
-- Hypnotic Animations
-
----
-
 # 🐍 Made with Python Turtle
