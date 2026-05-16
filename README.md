@@ -45,9 +45,9 @@ python main.py
 # 📂 Repository Structure
 
 ```plaintext
-python-turtle-series/
+Python---Turtle
 │
-└── infinite-spiral/
+└── 1InfiniteSpiral/
     ├── main.py
     └── README.md
 ```
